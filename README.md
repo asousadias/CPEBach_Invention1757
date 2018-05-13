@@ -5,7 +5,7 @@ Antonio de SOUSA DIAS<br>
 a.sousadias@belasartes.ulisboa.pt
 
 ## Description:
-This Max patch implements the _Invention_ from C. Ph.-E. Bachnin real time.<br>
+This Max patch implements the _Invention_ from C. Ph.-E. Bach in real time.<br>
 Experiments started in the late 80's with _GFA Basic_ for the Atari ST computer driving MIDI synthesizers.<br>
 In 2000 I've reprogrammed it in Max. At the time, the challenge was to make available a score in real-time.
 
